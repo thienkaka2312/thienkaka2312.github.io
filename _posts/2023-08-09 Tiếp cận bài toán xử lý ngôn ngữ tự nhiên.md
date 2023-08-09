@@ -1,2 +1,2 @@
-<h1 align="center"> <p>Quy trình cơ bản của một bài toán xử lý ngôn ngữ tự nhiên</p></h1>
+md<h1 align="center"> <p>Quy trình cơ bản của một bài toán xử lý ngôn ngữ tự nhiên</p></h1>
 Ngôn ngữ tự nhiên là ngôn ngữ mà con người giao tiếp với nhau hàng ngày. Thông qua ngôn ngữ con người có thể trao đổi thông tin với nhau và có thể hiểu được nhau. Nhưng máy tính không thể hiểu được ngôn ngữ của con người, chúng chỉ hiểu thông tin ở dạng bit. Vì thế để con người có thể giao tiếp với máy tính chúng ta cần xử lý chuyển đổi biểu diễn ngôn ngữ của chúng ta sang cách mà máy móc có thể hiểu được. 
